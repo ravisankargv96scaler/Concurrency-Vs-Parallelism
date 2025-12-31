@@ -1,0 +1,5 @@
+{
+  "name": "49-Async Academy: Concurrency vs Parallelism",
+  "description": "An interactive educational dashboard explaining the core differences between Concurrency and Parallelism through visual simulations, analogies, and quizzes.",
+  "requestFramePermissions": []
+}
